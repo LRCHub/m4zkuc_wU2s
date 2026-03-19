@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "夢幻のルフラン",
+  "base_artist": "SOUND HOLIC",
+  "createdAt": "2026-03-19T11:56:52.997762Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夢幻のルフラン [FN2 Remix]",
+      "artist": "SOUND HOLIC Vs. Eurobeat Union",
+      "has_synced": false,
+      "path": "select/01_夢幻のルフラン_[FN2_Remix]_SOUND_HOLIC_Vs._Eurobeat_Union.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "夢幻のルフラン [FN2 Remix]",
+      "artist": "SOUND HOLIC/Eurobeat Union",
+      "has_synced": false,
+      "path": "select/02_夢幻のルフラン_[FN2_Remix]_SOUND_HOLIC_Eurobeat_Union.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "夢幻のルフラン [FN2 Remix]",
+      "artist": "Nana Takahashi",
+      "has_synced": false,
+      "path": "select/03_夢幻のルフラン_[FN2_Remix]_Nana_Takahashi.txt"
+    }
+  ]
+}
